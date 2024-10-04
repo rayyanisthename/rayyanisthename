@@ -54,7 +54,3 @@
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/TheAlmightyRayyan/TheAlmightyRayyan/output/snake.yml" alt="Snake animation" />
-
-###
