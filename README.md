@@ -48,3 +48,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/TheAlmightyRayyan/TheAlmightyRayyan/output/snake.svg" alt="Snake animation" />
+
+###
