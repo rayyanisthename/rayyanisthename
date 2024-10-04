@@ -2,7 +2,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1154786797491077173/1291788139991666869/fbc27148aa214b908f1bb8ad3620fc37.jpeg?ex=67015ef4&is=67000d74&hm=7a2190335374b4cc2ab8e75cf7cc87802ea6d90a1a6a223717bfe412f8d48742&=&format=webp&width=671&height=671"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAlmightyRayyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAlmightyRayyan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
