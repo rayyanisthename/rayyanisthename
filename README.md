@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://media.discordapp.net/attachments/1154786797491077173/1291788139991666869/fbc27148aa214b908f1bb8ad3620fc37.jpeg?ex=67015ef4&is=67000d74&hm=7a2190335374b4cc2ab8e75cf7cc87802ea6d90a1a6a223717bfe412f8d48742&=&format=webp&width=671&height=671)"  />
 
 ###
 
