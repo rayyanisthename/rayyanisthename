@@ -51,3 +51,13 @@
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
 </div>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/vxwk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vxwk&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
