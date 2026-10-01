@@ -82,12 +82,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rayyanisthename&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&ring_color=cba6f7" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanisthename&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=unp4tched&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&ring_color=cba6f7" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unp4tched&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=rayyanisthename&hide_border=true&background=1E1E2E&stroke=45475A&ring=CBA6F7&fire=F9E2AF&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=CBA6F7&sideLabels=F5C2E7&dates=A6ADC8" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=unp4tched&hide_border=true&background=1E1E2E&stroke=45475A&ring=CBA6F7&fire=F9E2AF&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=CBA6F7&sideLabels=F5C2E7&dates=A6ADC8" alt="GitHub streak" />
 
 </div>
 
