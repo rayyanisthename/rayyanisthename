@@ -1,4 +1,4 @@
-<!-- ═════════════════════ HEADER ═════════════════════ -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
@@ -17,7 +17,7 @@
 
 <br/>
 
-<!-- ═════════════════════ ABOUT ═════════════════════ -->
+
 ## About Me
 
 - Currently working on: **NutriLens: Ai Food nutrition analysis**
@@ -27,7 +27,7 @@
 
 <br/>
 
-<!-- ═════════════════════ TECH STACK ═════════════════════ -->
+
 ## Tech Stack
 
 <details open>
@@ -77,7 +77,7 @@
 
 <br/>
 
-<!-- ═════════════════════ STATS ═════════════════════ -->
+
 ## GitHub Stats
 
 <div align="center">
@@ -93,7 +93,7 @@
 
 <br/>
 
-<!-- ═════════════════════ QUOTE ═════════════════════ -->
+
 ## Random Dev Quote
 
 <div align="center">
@@ -104,11 +104,8 @@
 
 <br/>
 
-<!-- ═════════════════════ FOOTER ═════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="footer" />
-
-<sub>Thanks for stopping by.</sub>
 
 </div>
