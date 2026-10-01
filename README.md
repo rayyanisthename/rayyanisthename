@@ -1,22 +1,117 @@
-# Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1033471097905098877) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.rayyan@gmail.com) 
+<!-- ═════════════════════ HEADER ═════════════════════ -->
+<div align="center">
 
-# Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hey,%20I'm%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=developer%20%C2%B7%20tinkerer%20%C2%B7%20pixel%20%26%20polygon%20enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-# Github Stats:
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rayyanisthename&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanisthename&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rayyanisthename&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/hmrayyan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="hmrayyan" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Building+things+that+feel+good+to+use;Games+%7C+Web+%7C+Mobile+%7C+Tools;Always+learning%2C+always+tinkering+%E2%98%95" alt="typing intro" />
+</a>
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=1e1e2e)](https://discord.gg/1033471097905098877)
+[![Email](https://img.shields.io/badge/Email-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:www.rayyan@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-f9e2af?style=for-the-badge&logo=buymeacoffee&logoColor=1e1e2e)](https://www.buymeacoffee.com/hmrayyan)
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════ ABOUT ═════════════════════ -->
+## 🌙 &nbsp;About Me
+
+> *"Make it work, make it right, make it pretty."*
+
+- 🎓 &nbsp;Student who spends too much time building side projects
+- 🔭 &nbsp;Currently working on: **your current project here**
+- 🌱 &nbsp;Currently learning: **what you're learning here**
+- 🎮 &nbsp;I love games, pixel art, and 3D, so a lot of my projects live there
+- 💬 &nbsp;Ask me about: **topics you enjoy talking about**
+
+<br/>
+
+<!-- ═════════════════════ TECH STACK ═════════════════════ -->
+## 🧰 &nbsp;Tech Stack
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,kotlin,lua,py,php,js,ts&theme=dark" alt="languages" />
 </p>
+</details>
 
+<details open>
+<summary><b>🌐 Web & Mobile</b></summary>
+<br/>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,vite,nodejs&theme=dark" alt="web" />
+</p>
+</details>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details open>
+<summary><b>🗄️ Backend & Databases</b></summary>
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql&theme=dark" alt="backend" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Creative & Graphics</b></summary>
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,aseprite,opengl&theme=dark" alt="creative" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & DevOps</b></summary>
+<br/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,gradle&theme=dark" alt="tools" />
+</p>
+</details>
+
+<br/>
+
+<!-- ═════════════════════ STATS ═════════════════════ -->
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rayyanisthename&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&ring_color=cba6f7" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanisthename&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rayyanisthename&hide_border=true&background=1E1E2E&stroke=45475A&ring=CBA6F7&fire=F9E2AF&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=CBA6F7&sideLabels=F5C2E7&dates=A6ADC8" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════ QUOTE ═════════════════════ -->
+## 💭 &nbsp;Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════ FOOTER ═════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="footer" />
+
+<sub>🌸 thanks for stopping by, have a cozy day 🌸</sub>
+
+</div>
