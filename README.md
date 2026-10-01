@@ -1,17 +1,14 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d0d0d&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Building+things+that+are+good+to+use;Games+%7C+Web+%7C+Mobile+%7C+Tools;Always+learning%2C+always+questioning" alt="typing intro" />
-</a>
+<sub>GAME &nbsp;·&nbsp; WEB &nbsp;·&nbsp; MOBILE &nbsp;·&nbsp; TOOLS</sub>
 
-<br/>
+<br/><br/>
 
-[![Discord](https://img.shields.io/badge/Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=1e1e2e)](https://discord.gg/1033471097905098877)
-[![Email](https://img.shields.io/badge/Email-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:www.rayyan@gmail.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-f9e2af?style=for-the-badge&logo=buymeacoffee&logoColor=1e1e2e)](https://www.buymeacoffee.com/hmrayyan)
+[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/1033471097905098877)
+[![Email](https://img.shields.io/badge/Email-4d4d4d?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:www.rayyan@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-808080?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)](https://www.buymeacoffee.com/hmrayyan)
 
 </div>
 
@@ -34,45 +31,59 @@
 <summary><b>Languages</b></summary>
 <br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,kotlin,lua,py,php,js,ts&theme=dark" alt="languages" />
-</p>
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=flat-square)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square)
+![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1a1a?style=flat-square)
+![Lua](https://img.shields.io/badge/Lua-1a1a1a?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square)
 </details>
 
 <details open>
 <summary><b>Web & Mobile</b></summary>
 <br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vue,vite,nodejs&theme=dark" alt="web" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-333333?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-333333?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-333333?style=flat-square)
+![React](https://img.shields.io/badge/React-333333?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-333333?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-333333?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square)
 </details>
 
 <details open>
 <summary><b>Backend & Databases</b></summary>
 <br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql&theme=dark" alt="backend" />
-</p>
+![Firebase](https://img.shields.io/badge/Firebase-4d4d4d?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-4d4d4d?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4d4d4d?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4d4d4d?style=flat-square)
 </details>
 
 <details open>
 <summary><b>Creative & Graphics</b></summary>
 <br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=blender,ae,aseprite&theme=dark" alt="creative" />
-</p>
+![Blender](https://img.shields.io/badge/Blender-666666?style=flat-square)
+![After Effects](https://img.shields.io/badge/After%20Effects-666666?style=flat-square)
+![Aseprite](https://img.shields.io/badge/Aseprite-666666?style=flat-square)
 </details>
 
 <details open>
 <summary><b>Tools & DevOps</b></summary>
 <br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,gradle&theme=dark" alt="tools" />
-</p>
+![Git](https://img.shields.io/badge/Git-808080?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-808080?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-808080?style=flat-square)
+![Gradle](https://img.shields.io/badge/Gradle-808080?style=flat-square)
 </details>
 
 <br/>
@@ -82,12 +93,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=unp4tched&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5c2e7&ring_color=cba6f7" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unp4tched&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=unp4tched&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=0d0d0d&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&ring_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unp4tched&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=0d0d0d&title_color=ffffff&text_color=a3a3a3" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=unp4tched&hide_border=true&background=1E1E2E&stroke=45475A&ring=CBA6F7&fire=F9E2AF&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=CBA6F7&sideLabels=F5C2E7&dates=A6ADC8" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=unp4tched&hide_border=true&background=0D0D0D&stroke=2A2A2A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A3A3A3&dates=737373" alt="GitHub streak" />
 
 </div>
 
@@ -98,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
 
 </div>
 
@@ -106,6 +117,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d0d0d&section=footer" width="100%" alt="footer" />
 
 </div>
