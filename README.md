@@ -1,7 +1,7 @@
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hey,%20I'm%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=developer%20%C2%B7%20tinkerer%20%C2%B7%20pixel%20%26%20polygon%20enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=developer,%20tinkerer,%20pixel%20and%20polygon%20enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Building+things+that+feel+good+to+use;Games+%7C+Web+%7C+Mobile+%7C+Tools;Always+learning%2C+always+tinkering+%E2%98%95" alt="typing intro" />
