@@ -62,7 +62,7 @@
 <br/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=blender,aseprite,opengl&theme=dark" alt="creative" />
+  <img src="https://skillicons.dev/icons?i=blender,aseprite,opengl,ae&theme=dark" alt="creative" />
 </p>
 </details>
 
