@@ -1,10 +1,10 @@
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=developer,%20tinkerer,%20pixel%20and%20polygon%20enthusiast&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Building+things+that+feel+good+to+use;Games+%7C+Web+%7C+Mobile+%7C+Tools;Always+learning%2C+always+tinkering+%E2%98%95" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=520&lines=Building+things+that+feel+good+to+use;Games+%7C+Web+%7C+Mobile+%7C+Tools;Always+learning%2C+always+tinkering" alt="typing intro" />
 </a>
 
 <br/>
@@ -18,23 +18,23 @@
 <br/>
 
 <!-- ═════════════════════ ABOUT ═════════════════════ -->
-## 🌙 &nbsp;About Me
+## About Me
 
 > *"Make it work, make it right, make it pretty."*
 
-- 🎓 &nbsp;Student who spends too much time building side projects
-- 🔭 &nbsp;Currently working on: **your current project here**
-- 🌱 &nbsp;Currently learning: **what you're learning here**
-- 🎮 &nbsp;I love games, pixel art, and 3D, so a lot of my projects live there
-- 💬 &nbsp;Ask me about: **topics you enjoy talking about**
+- Student who spends too much time building side projects
+- Currently working on: **your current project here**
+- Currently learning: **what you're learning here**
+- I love games, pixel art, and 3D, so a lot of my projects live there
+- Ask me about: **topics you enjoy talking about**
 
 <br/>
 
 <!-- ═════════════════════ TECH STACK ═════════════════════ -->
-## 🧰 &nbsp;Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>💻 Languages</b></summary>
+<summary><b>Languages</b></summary>
 <br/>
 
 <p>
@@ -43,7 +43,7 @@
 </details>
 
 <details open>
-<summary><b>🌐 Web & Mobile</b></summary>
+<summary><b>Web & Mobile</b></summary>
 <br/>
 
 <p>
@@ -52,7 +52,7 @@
 </details>
 
 <details open>
-<summary><b>🗄️ Backend & Databases</b></summary>
+<summary><b>Backend & Databases</b></summary>
 <br/>
 
 <p>
@@ -61,7 +61,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Creative & Graphics</b></summary>
+<summary><b>Creative & Graphics</b></summary>
 <br/>
 
 <p>
@@ -70,7 +70,7 @@
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & DevOps</b></summary>
+<summary><b>Tools & DevOps</b></summary>
 <br/>
 
 <p>
@@ -81,7 +81,7 @@
 <br/>
 
 <!-- ═════════════════════ STATS ═════════════════════ -->
-## 📊 &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 <br/>
 
 <!-- ═════════════════════ QUOTE ═════════════════════ -->
-## 💭 &nbsp;Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -112,6 +112,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="footer" />
 
-<sub>🌸 thanks for stopping by, have a cozy day 🌸</sub>
+<sub>Thanks for stopping by.</sub>
 
 </div>
