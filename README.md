@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d0d0d&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=3a3a3a&text=Hi,%20I%20am%20Rayyan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="header" />
 
-<sub>GAME &nbsp;·&nbsp; WEB &nbsp;·&nbsp; MOBILE &nbsp;·&nbsp; TOOLS</sub>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=D4D4D4&center=true&vCenter=true&width=520&lines=Games+%7C+Web+%7C+Mobile+%7C+Tools;SWE+%26+Lead+Developer+%40+Raven+Devs" alt="typing intro" />
+</a>
 
-<br/><br/>
+<br/>
 
 [![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/1033471097905098877)
 [![Email](https://img.shields.io/badge/Email-4d4d4d?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:www.rayyan@gmail.com)
@@ -117,6 +119,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d0d0d&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3a3a3a&section=footer" width="100%" alt="footer" />
 
 </div>
