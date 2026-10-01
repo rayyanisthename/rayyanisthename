@@ -23,7 +23,7 @@
 - Currently working on: **NutriLens: Ai Food nutrition analysis**
 - Currently learning: **Blender**
 - I love games, pixel art, and 3D, so a lot of my projects live there
-- Ask me : **anything about computers**
+- Ask me : **anything about cars and computers lol**
 
 <br/>
 
